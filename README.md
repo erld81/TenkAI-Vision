@@ -78,15 +78,17 @@ Após executar o comando, uma URL local (geralmente http://127.0.0.1:7860) será
 
 Os resultados serão exibidos na interface, incluindo a resposta textual, um gráfico (se aplicável) e um link para download do PDF.
 
-## Estrutura do Projeto
 
+## Estrutura de Pastas do Projeto
 
-.  
+```
+TenkAI-Vision/
 ├── app.py
 ├── requirements.txt
-├── README.md
 ├── .gitignore
-└── LICENSE
+├── LICENSE
+└── README.md
+```
 
 
 ## Licença
