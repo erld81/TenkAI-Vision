@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Gradio specific
+gradio_temp_*
+
+# Data files
+data/
+notas_fiscais.zip
+
+# API Keys and sensitive information
+.env
+
+
